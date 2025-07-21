@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="40" fill="#6F4E37"/>
+  <circle cx="90" cy="90" r="60" fill="#FFFFFF" opacity="0.1"/>
+  <path d="M135,70h-5v-5c0-2.8-2.2-5-5-5H55c-2.8,0-5,2.2-5,5v50c0,8.3,6.7,15,15,15h50c8.3,0,15-6.7,15-15v-5h5c8.3,0,15-6.7,15-15V85
+    C150,76.7,143.3,70,135,70z M130,100h-5V80h5c2.8,0,5,2.2,5,5v10C135,97.8,132.8,100,130,100z" fill="#FFFFFF"/>
+  <path d="M45,70c-2.8,0-5,2.2-5,5v30c0,2.8,2.2,5,5,5s5-2.2,5-5V75C50,72.2,47.8,70,45,70z" fill="#FFFFFF"/>
+  <text x="90" y="145" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#FFFFFF">BREW HAVEN</text>
+</svg>
